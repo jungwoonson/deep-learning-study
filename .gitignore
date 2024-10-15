@@ -316,3 +316,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# 트레이닝 데이터
+test_data/
